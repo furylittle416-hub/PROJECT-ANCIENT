@@ -1,0 +1,13 @@
+# Compiled source #*.com,pdb,so,o,exe,lib.zip,lib,app,pyc,cpl
+# Logs, DB files, and credential files
+*.log
+*.sql
+*.sqlite
+*.db
+.env
+# Editor directories and files
+.vscode/
+.idea/
+# OS generated files
+.DS_Store
+Thumbs.db
